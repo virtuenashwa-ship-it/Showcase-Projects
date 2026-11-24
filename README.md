@@ -1,2 +1,2 @@
 # Showcase-Projects
-A collection of data pipeline and analytics projects built with Python, SQL, and DuckDB.
+This repository contains completed projects intended to showcase my technical abilities in coding.
